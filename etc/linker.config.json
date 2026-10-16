@@ -1,0 +1,21 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libusb-1.0.a-x86_64-v2.so",
+		    "libdummy_binary_libusb-1.0.a.so",
+		    "libdummy_ext_libusb-x86_64-v2.so",
+		    "libdummy_ext_libusb.so",
+		    "libdummy_headers_ext_libusb-x86_64-v2.so",
+		    "libdummy_headers_ext_libusb.so",
+		    "libdummy_pkgconfig_ext_libusb-x86_64-v2.so",
+		    "libdummy_pkgconfig_ext_libusb.so",
+		    "libusb-1.0-x86_64-v2.so",
+		    "libusb-1.0.so",
+		    "libusb-x86_64-v2.so",
+		    "libusb.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so"
+	],
+	"visible": true
+}
